@@ -1,0 +1,82 @@
+html{
+    scroll-behavior: smooth;
+    text-align: center;
+        }
+
+body{
+  color:blueviolet;
+  background-color:chartreuse;
+text-align: center;
+}
+#sec1{
+text-align:Center;
+opacity: 0.83;
+    background:linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+#abthobby{
+  text-align:Center;
+opacity: 0.83;
+    background:linear-gradient(#ffaf00 0%,#ecff00 100%);
+color:black;
+  font-size:18px;
+  }
+#fav books{
+    text-align: center;
+}
+#quotedisplaylabel{
+  font-weight:bold;
+  color:red;
+}
+img{
+  height:250px;
+  width:200px;
+}
+#sp{
+font-family:"Stint Ultra Condensed",fantasy;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    font-family: inherit;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color:fuchsia;
+    }
+#sp{
+font-family: 'Stint Ultra Condensed', cursive;
+}
+.links{
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: serif;
+    font-size: 20px;
+    }
+}
+.link:hover{
+     background-color:darkblue;
+     text-decoration: underline
+}
+#fft{
+    width: 500px;
+    height: 450px;
+    }
+a{
+text-decoration: none;
+color: blueviolet;
+text-shadow:2px 2px gainsboro;
+}
+#contact{
+background:yellow;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 a{
+    color:cornflowerblue;
+    text-shadow:none;
+}
